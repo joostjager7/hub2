@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 apples
-sweet oranges
+sour oranges
 =======
 >>>>>>> github/master
 kiwis
